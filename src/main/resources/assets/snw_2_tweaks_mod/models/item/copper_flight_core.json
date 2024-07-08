@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "snw_2_tweaks_mod:item/copper_flight_core"
+  }
+}
